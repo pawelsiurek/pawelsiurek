@@ -1,5 +1,5 @@
 ## Hellooo!!! 👋
-I'm Paweł from Poland, and I'm absolutely enthusiastic about all nuances about AI, Data Science, and Machine Learning! 🤖🔬📊
+I'm Paweł from Poland, and I'm absolutely enthusiastic about the whole world of AI, Data Science, and Machine Learning! 🤖🔬📊
 
 Currently focusing on Computer Vision & NLP.
 Incredibly open to all kinds of co-operation!! 🤝
