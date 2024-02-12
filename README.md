@@ -2,6 +2,7 @@
 I'm Paweł from Poland, and I'm absolutely enthusiastic about the whole world of AI, Data Science, and Machine Learning! 🤖🔬📊
 
 Currently focusing on Computer Vision & NLP.
+
 Incredibly open to all kinds of co-operation!! 🤝
 
 ## Skills & Experiences
