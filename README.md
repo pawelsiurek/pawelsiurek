@@ -1,4 +1,4 @@
-# Paweł Siurek, aspiring ML/Data Engineer
+# Paweł Siurek, AI/ML & Data
 
 Hey, I'm Paweł, I'm a very ambitious and open-minded student at Poznan University of Technology, majoring in Artificial Intelligence. 
 
