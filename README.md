@@ -4,7 +4,7 @@ Hey, I'm Paweł, I'm a very ambitious and open-minded student at Poznan Universi
 
 I am very passionate about designing and building end-to-end Data & AI/ML pipelines and solutions, with a strong focus on taking models out of notebooks and deploying them into scalable, production-ready environments :). Currently, I put a lot of time into exploring the tools and tech stack of Data Engineering and AI/ML Engineering.
 
-I love building and shipping end-to-end projects. My focus is on taking concepts from a simple idea - drawing out out on the board :), and driving them all the way to robust, scalable production products.
+I love building and shipping end-to-end projects. My focus is on taking concepts from a simple idea - drawing out on the board :), and driving them all the way to robust, scalable production products.
 
 I am very open towards Internship/Junior positions, especially for the Data Engineer role.
 
