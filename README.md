@@ -1,6 +1,6 @@
 # Paweł Siurek, Data & AI/ML
 
-Hey, I'm Paweł - a 2nd-year Artificial Intelligence student at Poznan University of Technology, very passionate about building end-to-end data systems that actually work in production :)
+Hey, I'm Paweł - a 3rd-year Artificial Intelligence student at Poznan University of Technology, very passionate about building end-to-end data systems that actually work in production :)
 My main focus is Data Engineering: designing and shipping robust pipelines, from raw ingestion all the way to analytics-ready data. I love the full journey - sketching the architecture on a whiteboard and not stopping until it's containerised, orchestrated, and running reliably.
 
 On top of that, I bring solid ML fundamentals backed by real project experience. For my academic work and the GHOST student research group, I've modelled a wide range of datasets - from tabular data using XGBoost and classical classifiers, to medical imaging with CNNs.
